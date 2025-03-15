@@ -1,6 +1,6 @@
 # Ignore large data
+ecommerce_customer_data_custom_ratios.csv/
 ecommerce_customer_data_custom_ratios.csv
-data/ecommerce_customer_data_custom_ratios.csv
 
 # Ignore virtual environment
 churn_venv/
