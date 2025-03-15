@@ -8,3 +8,4 @@ data/*.csv
 
 # Ignore virtual environment
 churn_venv/
+churn_venv
