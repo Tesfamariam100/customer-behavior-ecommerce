@@ -5,3 +5,6 @@ ecommerce_customer_data_custom_ratios.csv
 # Ignore virtual environment
 churn_venv/
 churn_venv
+data/raw/
+data/
+
