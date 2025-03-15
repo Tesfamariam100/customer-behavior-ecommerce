@@ -1,9 +1,4 @@
-# Old entry
-ecommerce_customer_data_custom_ratios.csv
-
-# New entry
-data/ecommerce_customer_data_custom_ratios.csv
-# or more generally
+# Ignore large data
 data/*.csv
 
 # Ignore virtual environment
